@@ -1,4 +1,4 @@
-Modified redme for DevOPS demo 
+this is the changes done from github - 20180106:15:54
 
 ********************************
 
